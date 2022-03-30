@@ -21,4 +21,5 @@ Just a repo to keep track of what I've read and watched.
   - [x] Introduction to NextJS
         https://frontendmasters.com/courses/next-js/wrapping-up/
   - [x] State Modeling in React with XState
-        https://frontendmasters.com/courses/xstate-react/ - [x] TypeScript Fundamentals, v3 https://frontendmasters.com/courses/typescript-v3/
+        https://frontendmasters.com/courses/xstate-react/
+  - [x] TypeScript Fundamentals, v3 https://frontendmasters.com/courses/typescript-v3/
