@@ -4,11 +4,11 @@ Just a repo to keep track of what I've read and watched.
 
 ### History
 
-- [Learned in 2021](#learned-in-2021)
+- [Learned in 2022](#learned-in-2022)
   - [Reading](#reading)
   - [Videos](#videos)
 
-##### Learned in 2021
+##### Learned in 2022
 
 - ## Reading
   - [x] 8 Lessons I Learned as a Tech Lead: https://medium.com/better-programming/8-lessons-i-learned-as-a-tech-lead-3c41373070b0
