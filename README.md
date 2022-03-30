@@ -4,8 +4,8 @@ Just a repo to keep track of what I've read and watched.
 
 ### History
 
-- [Learned in 2021]()
-  - [Reading]()
+- [Learned in 2021](#learned-in-2021)
+  - [Reading](#reading)
   - [Videos](#videos)
 
 ##### Learned in 2021
@@ -18,7 +18,7 @@ Just a repo to keep track of what I've read and watched.
   - [x] 10x Engineer — Learning your tools and other hacks https://blog.borneo.io/10x-engineer-learning-your-tools-and-other-hacks-aa5a42af34d8
   - [x] How to Be a 10x Software Engineer https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5
 - ## Videos
-      - [x] Introduction to NextJS
-      https://frontendmasters.com/courses/next-js/wrapping-up/
-      - [x] State Modeling in React with XState
-  https://frontendmasters.com/courses/xstate-react/ - [x] TypeScript Fundamentals, v3 https://frontendmasters.com/courses/typescript-v3/
+  - [x] Introduction to NextJS
+        https://frontendmasters.com/courses/next-js/wrapping-up/
+  - [x] State Modeling in React with XState
+        https://frontendmasters.com/courses/xstate-react/ - [x] TypeScript Fundamentals, v3 https://frontendmasters.com/courses/typescript-v3/
