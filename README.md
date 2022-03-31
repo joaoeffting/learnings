@@ -11,6 +11,7 @@ Just a repo to keep track of what I've read and watched.
 ## Learned in 2022
 
 - ### Reading
+  - [x] 10 Tips To Write Effective Code Reviews https://betterprogramming.pub/10-tips-to-write-effective-code-reviews-c25c25aa22c5
   - [x] 8 Lessons I Learned as a Tech Lead: https://medium.com/better-programming/8-lessons-i-learned-as-a-tech-lead-3c41373070b0
   - [x] Writing Clean JavaScript: https://medium.com/geekculture/writing-clean-javascript-es6-edition-834e83abc746
   - [x] An introduction to functional programming in JavaScript: https://opensource.com/article/17/6/functional-javascript
