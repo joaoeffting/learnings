@@ -11,6 +11,8 @@ Just a repo to keep track of what I've read and watched.
 ## Learned in 2022
 
 - ### Reading
+  - [x] Why you shouldn’t always use “useState” https://javascript.plainenglish.io/why-you-shouldnt-always-use-usestate-658994693018
+  - [x] 5 Dev Tools To Look Out For In 2022 https://betterprogramming.pub/5-dev-tools-to-look-out-for-in-2022-713f94c0f3cf
   - [x] You can’t review every Pull Request. Do these 7 things instead. https://medium.com/@curtiseinsmann/you-cant-review-every-pull-request-do-these-7-things-instead-a62f19361d6d
   - [x] 10 Tips To Write Effective Code Reviews https://betterprogramming.pub/10-tips-to-write-effective-code-reviews-c25c25aa22c5
   - [x] 8 Lessons I Learned as a Tech Lead: https://medium.com/better-programming/8-lessons-i-learned-as-a-tech-lead-3c41373070b0
