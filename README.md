@@ -11,6 +11,7 @@ Just a repo to keep track of what I've read and watched.
 ## Learned in 2022
 
 - ### Reading
+  - [x] 10 Books Every Senior Engineer Should Read https://semaphoreci.com/blog/books-every-senior-engineer-should-read 
   - [x] Why you shouldn’t always use “useState” https://javascript.plainenglish.io/why-you-shouldnt-always-use-usestate-658994693018
   - [x] 5 Dev Tools To Look Out For In 2022 https://betterprogramming.pub/5-dev-tools-to-look-out-for-in-2022-713f94c0f3cf
   - [x] You can’t review every Pull Request. Do these 7 things instead. https://medium.com/@curtiseinsmann/you-cant-review-every-pull-request-do-these-7-things-instead-a62f19361d6d
