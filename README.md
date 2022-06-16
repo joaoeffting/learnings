@@ -11,6 +11,9 @@ Just a repo to keep track of what I've read and watched.
 ## Learned in 2022
 
 - ### Reading
+  - [x] Things I’ve learned from writing a lot of unit tests https://bytedev.medium.com/things-ive-learned-from-writing-a-lot-of-unit-tests-2d234d0cfccf 
+  - [x] React v18: Why useEffect Suddenly Got Crazy? https://richbray.medium.com/hot-take-react-hooks-are-bad-for-your-code-heres-why-d95410d07402 
+  - [x] Console.log and his Ninja Pals https://towardsdev.com/console-log-and-his-ninja-pals-4fc0863ad5f4 
   - [x] 10 Books Every Senior Engineer Should Read https://semaphoreci.com/blog/books-every-senior-engineer-should-read 
   - [x] Why you shouldn’t always use “useState” https://javascript.plainenglish.io/why-you-shouldnt-always-use-usestate-658994693018
   - [x] 5 Dev Tools To Look Out For In 2022 https://betterprogramming.pub/5-dev-tools-to-look-out-for-in-2022-713f94c0f3cf
